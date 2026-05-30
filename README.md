@@ -14,5 +14,9 @@
 
 14-Apr-2025(Mon):Learnt java class and object and Solved java Object Oriented Fundamentals problems
 
-15-Apr-2025(Tue):
+15-Apr-2025(Tue):Learnt Encapsulation, Polymorphism, Interface, Abstract Classes and Completed related questions.
+
+16-Apr-2025(Wed):Started with Data Structures and learnt and Executed Single Linked List, Double Linked List and Circular  Linked List.
+
+17-Apr-2025(Thu):
 
